@@ -1,3 +1,5 @@
+# Author: Madhav Rajkondawar
+
 """
 Iterates zones and tries at least 2 GPU types (T4 + L4)
 
