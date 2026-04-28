@@ -1,0 +1,16 @@
+zone,region,methodA_offered_any,methodB_quota_says_available,gpu_allocated_successfully,gpu_used,failure_reason,quota_check_time_s,allocation_attempt_time_s
+us-east1-b,us-east1,Yes,Yes,Yes,nvidia-l4,None,1.654,14.385
+us-east1-c,us-east1,Yes,Yes,Yes,nvidia-l4,None,0.0,24.602
+us-east1-d,us-east1,Yes,Yes,Yes,nvidia-tesla-t4,None,0.0,24.405
+us-east4-c,us-east4,Yes,Yes,Yes,nvidia-l4,None,1.839,23.768
+us-east4-b,us-east4,Yes,Yes,No,,GPU type not offered in zone,0.0,11.64
+us-east4-a,us-east4,Yes,Yes,Yes,nvidia-l4,None,0.0,28.466
+us-central1-c,us-central1,Yes,Yes,Yes,nvidia-l4,None,1.977,22.276
+us-central1-a,us-central1,Yes,Yes,Yes,nvidia-l4,None,0.0,25.852
+us-central1-f,us-central1,Yes,Yes,Yes,nvidia-tesla-t4,None,0.0,81.925
+us-central1-b,us-central1,Yes,Yes,Yes,nvidia-l4,None,0.0,26.894
+us-west1-b,us-west1,Yes,Yes,No,,No GPUs available (zone exhausted),2.038,23.793
+us-west1-c,us-west1,Yes,Yes,Yes,nvidia-l4,None,0.0,50.888
+us-west1-a,us-west1,Yes,Yes,Yes,nvidia-l4,None,0.0,26.838
+europe-west4-a,europe-west4,Yes,Yes,Yes,nvidia-tesla-t4,None,2.599,36.65
+europe-west4-b,europe-west4,Yes,Yes,No,,No GPUs available (zone exhausted),0.0,26.503
